@@ -1,0 +1,14 @@
+C:\Users\TDILIP\source\repos\Assignment5CF_Q1\Assignment5CF_Q1\bin\Debug\netcoreapp3.1\Assignment5CF_Q1.exe
+C:\Users\TDILIP\source\repos\Assignment5CF_Q1\Assignment5CF_Q1\bin\Debug\netcoreapp3.1\Assignment5CF_Q1.deps.json
+C:\Users\TDILIP\source\repos\Assignment5CF_Q1\Assignment5CF_Q1\bin\Debug\netcoreapp3.1\Assignment5CF_Q1.runtimeconfig.json
+C:\Users\TDILIP\source\repos\Assignment5CF_Q1\Assignment5CF_Q1\bin\Debug\netcoreapp3.1\Assignment5CF_Q1.runtimeconfig.dev.json
+C:\Users\TDILIP\source\repos\Assignment5CF_Q1\Assignment5CF_Q1\bin\Debug\netcoreapp3.1\Assignment5CF_Q1.dll
+C:\Users\TDILIP\source\repos\Assignment5CF_Q1\Assignment5CF_Q1\bin\Debug\netcoreapp3.1\Assignment5CF_Q1.pdb
+C:\Users\TDILIP\source\repos\Assignment5CF_Q1\Assignment5CF_Q1\obj\Debug\netcoreapp3.1\Assignment5CF_Q1.csproj.AssemblyReference.cache
+C:\Users\TDILIP\source\repos\Assignment5CF_Q1\Assignment5CF_Q1\obj\Debug\netcoreapp3.1\Assignment5CF_Q1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TDILIP\source\repos\Assignment5CF_Q1\Assignment5CF_Q1\obj\Debug\netcoreapp3.1\Assignment5CF_Q1.AssemblyInfoInputs.cache
+C:\Users\TDILIP\source\repos\Assignment5CF_Q1\Assignment5CF_Q1\obj\Debug\netcoreapp3.1\Assignment5CF_Q1.AssemblyInfo.cs
+C:\Users\TDILIP\source\repos\Assignment5CF_Q1\Assignment5CF_Q1\obj\Debug\netcoreapp3.1\Assignment5CF_Q1.csproj.CoreCompileInputs.cache
+C:\Users\TDILIP\source\repos\Assignment5CF_Q1\Assignment5CF_Q1\obj\Debug\netcoreapp3.1\Assignment5CF_Q1.dll
+C:\Users\TDILIP\source\repos\Assignment5CF_Q1\Assignment5CF_Q1\obj\Debug\netcoreapp3.1\Assignment5CF_Q1.pdb
+C:\Users\TDILIP\source\repos\Assignment5CF_Q1\Assignment5CF_Q1\obj\Debug\netcoreapp3.1\Assignment5CF_Q1.genruntimeconfig.cache
