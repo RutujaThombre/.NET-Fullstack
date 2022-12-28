@@ -1,0 +1,5 @@
+C:\Users\TDILIP\source\repos\Assignment5CF_Q2\Assignment5CF_Q2\obj\Debug\netcoreapp3.1\Assignment5CF_Q2.csproj.AssemblyReference.cache
+C:\Users\TDILIP\source\repos\Assignment5CF_Q2\Assignment5CF_Q2\obj\Debug\netcoreapp3.1\Assignment5CF_Q2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TDILIP\source\repos\Assignment5CF_Q2\Assignment5CF_Q2\obj\Debug\netcoreapp3.1\Assignment5CF_Q2.AssemblyInfoInputs.cache
+C:\Users\TDILIP\source\repos\Assignment5CF_Q2\Assignment5CF_Q2\obj\Debug\netcoreapp3.1\Assignment5CF_Q2.AssemblyInfo.cs
+C:\Users\TDILIP\source\repos\Assignment5CF_Q2\Assignment5CF_Q2\obj\Debug\netcoreapp3.1\Assignment5CF_Q2.csproj.CoreCompileInputs.cache
