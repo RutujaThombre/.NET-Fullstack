@@ -1,0 +1,14 @@
+C:\Users\TDILIP\Documents\Assignments\OOP_Assignment_2\OOP_Assignment_2\obj\Debug\netcoreapp3.1\OOP_Assignment_2.csproj.AssemblyReference.cache
+C:\Users\TDILIP\Documents\Assignments\OOP_Assignment_2\OOP_Assignment_2\obj\Debug\netcoreapp3.1\OOP_Assignment_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TDILIP\Documents\Assignments\OOP_Assignment_2\OOP_Assignment_2\obj\Debug\netcoreapp3.1\OOP_Assignment_2.AssemblyInfoInputs.cache
+C:\Users\TDILIP\Documents\Assignments\OOP_Assignment_2\OOP_Assignment_2\obj\Debug\netcoreapp3.1\OOP_Assignment_2.AssemblyInfo.cs
+C:\Users\TDILIP\Documents\Assignments\OOP_Assignment_2\OOP_Assignment_2\obj\Debug\netcoreapp3.1\OOP_Assignment_2.csproj.CoreCompileInputs.cache
+C:\Users\TDILIP\Documents\Assignments\OOP_Assignment_2\OOP_Assignment_2\bin\Debug\netcoreapp3.1\OOP_Assignment_2.exe
+C:\Users\TDILIP\Documents\Assignments\OOP_Assignment_2\OOP_Assignment_2\bin\Debug\netcoreapp3.1\OOP_Assignment_2.deps.json
+C:\Users\TDILIP\Documents\Assignments\OOP_Assignment_2\OOP_Assignment_2\bin\Debug\netcoreapp3.1\OOP_Assignment_2.runtimeconfig.json
+C:\Users\TDILIP\Documents\Assignments\OOP_Assignment_2\OOP_Assignment_2\bin\Debug\netcoreapp3.1\OOP_Assignment_2.runtimeconfig.dev.json
+C:\Users\TDILIP\Documents\Assignments\OOP_Assignment_2\OOP_Assignment_2\bin\Debug\netcoreapp3.1\OOP_Assignment_2.dll
+C:\Users\TDILIP\Documents\Assignments\OOP_Assignment_2\OOP_Assignment_2\bin\Debug\netcoreapp3.1\OOP_Assignment_2.pdb
+C:\Users\TDILIP\Documents\Assignments\OOP_Assignment_2\OOP_Assignment_2\obj\Debug\netcoreapp3.1\OOP_Assignment_2.dll
+C:\Users\TDILIP\Documents\Assignments\OOP_Assignment_2\OOP_Assignment_2\obj\Debug\netcoreapp3.1\OOP_Assignment_2.pdb
+C:\Users\TDILIP\Documents\Assignments\OOP_Assignment_2\OOP_Assignment_2\obj\Debug\netcoreapp3.1\OOP_Assignment_2.genruntimeconfig.cache
