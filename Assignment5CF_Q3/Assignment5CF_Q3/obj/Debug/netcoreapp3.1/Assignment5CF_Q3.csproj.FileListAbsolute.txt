@@ -1,0 +1,14 @@
+C:\Users\TDILIP\source\repos\.NET-Fullstack\Assignment5CF_Q3\Assignment5CF_Q3\obj\Debug\netcoreapp3.1\Assignment5CF_Q3.csproj.AssemblyReference.cache
+C:\Users\TDILIP\source\repos\.NET-Fullstack\Assignment5CF_Q3\Assignment5CF_Q3\obj\Debug\netcoreapp3.1\Assignment5CF_Q3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TDILIP\source\repos\.NET-Fullstack\Assignment5CF_Q3\Assignment5CF_Q3\obj\Debug\netcoreapp3.1\Assignment5CF_Q3.AssemblyInfoInputs.cache
+C:\Users\TDILIP\source\repos\.NET-Fullstack\Assignment5CF_Q3\Assignment5CF_Q3\obj\Debug\netcoreapp3.1\Assignment5CF_Q3.AssemblyInfo.cs
+C:\Users\TDILIP\source\repos\.NET-Fullstack\Assignment5CF_Q3\Assignment5CF_Q3\obj\Debug\netcoreapp3.1\Assignment5CF_Q3.csproj.CoreCompileInputs.cache
+C:\Users\TDILIP\source\repos\.NET-Fullstack\Assignment5CF_Q3\Assignment5CF_Q3\bin\Debug\netcoreapp3.1\Assignment5CF_Q3.exe
+C:\Users\TDILIP\source\repos\.NET-Fullstack\Assignment5CF_Q3\Assignment5CF_Q3\bin\Debug\netcoreapp3.1\Assignment5CF_Q3.deps.json
+C:\Users\TDILIP\source\repos\.NET-Fullstack\Assignment5CF_Q3\Assignment5CF_Q3\bin\Debug\netcoreapp3.1\Assignment5CF_Q3.runtimeconfig.json
+C:\Users\TDILIP\source\repos\.NET-Fullstack\Assignment5CF_Q3\Assignment5CF_Q3\bin\Debug\netcoreapp3.1\Assignment5CF_Q3.runtimeconfig.dev.json
+C:\Users\TDILIP\source\repos\.NET-Fullstack\Assignment5CF_Q3\Assignment5CF_Q3\bin\Debug\netcoreapp3.1\Assignment5CF_Q3.dll
+C:\Users\TDILIP\source\repos\.NET-Fullstack\Assignment5CF_Q3\Assignment5CF_Q3\bin\Debug\netcoreapp3.1\Assignment5CF_Q3.pdb
+C:\Users\TDILIP\source\repos\.NET-Fullstack\Assignment5CF_Q3\Assignment5CF_Q3\obj\Debug\netcoreapp3.1\Assignment5CF_Q3.dll
+C:\Users\TDILIP\source\repos\.NET-Fullstack\Assignment5CF_Q3\Assignment5CF_Q3\obj\Debug\netcoreapp3.1\Assignment5CF_Q3.pdb
+C:\Users\TDILIP\source\repos\.NET-Fullstack\Assignment5CF_Q3\Assignment5CF_Q3\obj\Debug\netcoreapp3.1\Assignment5CF_Q3.genruntimeconfig.cache
