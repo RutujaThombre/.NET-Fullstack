@@ -1,0 +1,29 @@
+﻿@model Day4MVC.Models.Account
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Create</h2>
+@Html.ValidationSummary("Errors in account creation")
+@using (Html.BeginForm("CreateAccount", "Home"))
+{
+
+    <p>
+        Account Number: @Html.TextBoxFor(a => a.AccountNumber)
+        @Html.ValidationMessageFor(a => a.AccountNumber)
+    </p>
+
+    <p>
+        Name: @Html.TextBoxFor(a => a.Name)
+        @Html.ValidationMessageFor(a => a.Name)
+    </p>
+
+    <p>
+        Current Balance: @Html.TextBoxFor(a => a.CurrentBalance)
+        @Html.ValidationMessageFor(a => a.CurrentBalance)
+    </p>
+
+    <input type="submit" value="Create Account" />
+}
+
+
